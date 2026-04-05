@@ -2,6 +2,11 @@
 
 A GenAI agent that explains insurance claims in plain language using LangChain, Groq, Tavily, ChromaDB RAG, and Streamlit.
 
+## Demo Screentshort
+
+![Image 1](./documents/image.png)
+![Image 2](./documents/image1.png)
+
 ## Setup
 
 ### 1. Install dependencies
